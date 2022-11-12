@@ -53,7 +53,7 @@
 				},
 				{
 					"abbreviation": "UF",
-					"prestige": "85",
+					"prestige": "75",
 					"hexColor": "#0021A5",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -155,7 +155,7 @@
 				},
 				{
 					"abbreviation": "TENN",
-					"prestige": "70",
+					"prestige": "85",
 					"hexColor": "#FF8200",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -308,7 +308,7 @@
 				},
 				{
 					"abbreviation": "MISS",
-					"prestige": "65",
+					"prestige": "80",
 					"hexColor": "#14213D",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -359,7 +359,7 @@
 				},
 				{
 					"abbreviation": "UK",
-					"prestige": "59",
+					"prestige": "65",
 					"hexColor": "#0033A0",
 					"offCoordinator": {
 						"contractLength": "3",
